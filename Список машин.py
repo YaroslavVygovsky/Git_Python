@@ -1,0 +1,11 @@
+mashin=[];
+mashin.append('bugatti');
+mashin.append('VAZ');
+mashin.append('Wolksvagen');
+mashin.append('lamborgini');
+mashin.append('rolls-roys');
+mashin.append('BMW');
+mashin.append('mazda');
+mashin.append('honda');
+mashin.append('mersedess');
+print(mashin)
